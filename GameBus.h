@@ -19,6 +19,12 @@ private:
   static GameBus* instance_;
 
 public:
+  // The config struct.
+  struct {
+    int spriteW = 16;
+    int spriteH = 16;
+  } config;
+
   // The RenderWindow instance
   sf::RenderWindow* window;
 
@@ -34,9 +40,17 @@ public:
   /**
    * Loads a specific texture.
    * @param filename The file name.
+   * @param index The sprite rect index.
    * @return The texture.
    */
-  sf::Sprite* loadSprite(std::string filename);
+  sf::Sprite* loadSprite(std::string filename, int index);
+
+  /**
+   * Get the rect of a sprite. each rect is 16 * 16.
+   * @param index The index of the sprite.
+   * @return The rect of the sprite.
+   */
+  sf::IntRect spriteRect(int index);
 };
 
 

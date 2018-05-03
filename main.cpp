@@ -17,7 +17,7 @@ int main()
   GameBus* bus = GameBus::instance();
 
   bus->window = &window;
-  bus->smile = bus->loadSprite("assets/smile.png");
+  bus->smile = bus->loadSprite("assets/character.png", 0);
   while (window.isOpen()) {
     sf::Event event{};
 

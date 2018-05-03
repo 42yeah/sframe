@@ -11,187 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1c5e52-0adf-452d-a557-92f913bec8b4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/walkar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameBus.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameBus.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/cmake/Modules/FindSFML.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/classsf_1_1Ftp_1_1DirectoryResponse-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/classsf_1_1Ftp_1_1ListingResponse-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/classsf_1_1GlResource_1_1TransientContextLock-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/classsf_1_1GlResource_1_1TransientContextLock.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/classsf_1_1GlResource_1_1TransientContextLock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/classsf_1_1MemoryInputStream-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/classsf_1_1SoundBufferRecorder-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/dir_139bdea5517c8285c4c6d697501014f9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/dir_357aa70a9ab2c22ea525f6a52810701d.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/dir_6282a846aef46c562df320c3c321393d.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/dir_873f3329ad3c448b0452012e1b50a7ca.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/dir_9ca93fe75e375680c8d5541792711465.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/dir_a465d99dc6d591b1fb2657a3e2e0ee9b.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/dir_b2566b3f099aab44b5dbaaac139ebf00.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/dir_fd27c1b34c2c91b14b67b46e2d75b448.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1JoystickButtonEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1JoystickButtonEvent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1JoystickConnectEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1JoystickConnectEvent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1JoystickMoveEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1JoystickMoveEvent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1KeyEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1MouseButtonEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1MouseButtonEvent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1MouseMoveEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1MouseWheelEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1MouseWheelEvent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1MouseWheelScrollEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1MouseWheelScrollEvent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1SensorEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1SizeEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1TextEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Event_1_1TouchEvent-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Joystick_1_1Identification-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Joystick_1_1Identification.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1Shader_1_1CurrentTextureType.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1SoundFileReader_1_1Info-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1SoundFileReader_1_1Info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/html/structsf_1_1SoundStream_1_1Chunk-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/doc/sfml.chm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/AlResource.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/Export.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/InputSoundFile.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/Listener.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/Music.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/OutputSoundFile.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/Sound.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/SoundBuffer.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/SoundBufferRecorder.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/SoundFileFactory.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/SoundFileFactory.inl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/SoundFileReader.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/SoundFileWriter.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/SoundRecorder.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/SoundSource.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Audio/SoundStream.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/BlendMode.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Color.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Drawable.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Export.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Font.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Glsl.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Glsl.inl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Glyph.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Image.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Rect.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Rect.inl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Shader.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Shape.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Sprite.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Text.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Texture.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Vertex.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/View.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/Export.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/Ftp.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/Http.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/IpAddress.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/Packet.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/Socket.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/SocketHandle.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/SocketSelector.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/TcpListener.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/TcpSocket.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Network/UdpSocket.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Clock.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Err.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Export.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/FileInputStream.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/InputStream.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Lock.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/MemoryInputStream.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Mutex.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/NativeActivity.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/NonCopyable.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Sleep.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/String.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/String.inl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Thread.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Thread.inl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/ThreadLocal.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/ThreadLocalPtr.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/ThreadLocalPtr.inl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Time.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Utf.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Utf.inl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Vector2.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Vector2.inl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Vector3.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/System/Vector3.inl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/Context.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/ContextSettings.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/Event.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/Export.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/GlResource.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/Joystick.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/Keyboard.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/Mouse.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/Sensor.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/Touch.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/VideoMode.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/Window.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/WindowHandle.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/include/SFML/Window/WindowStyle.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/flac.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/freetype.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/jpeg.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/ogg.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/openal32.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-audio-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-audio-d.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-audio-s-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-audio-s-d.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-audio-s.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-audio.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-graphics-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-graphics-d.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-graphics-s-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-graphics-s-d.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-graphics-s.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-graphics.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-main-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-main.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-network-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-network-d.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-network-s-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-network-s-d.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-network-s.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-network.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-system-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-system-d.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-system-s-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-system-s-d.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-system-s.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-system.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-window-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-window-d.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-window-s-d.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-window-s-d.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-window-s.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/sfml-window.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/vorbis.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/vorbisenc.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SFML-2.4.2/lib/vorbisfile.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/smile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake_modules/FindSFML.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    <list default="true" id="cb1c5e52-0adf-452d-a557-92f913bec8b4" name="Default" comment="Added sprite loading fea">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameBus.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GameBus.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameBus.h" beforeDir="false" afterPath="$PROJECT_DIR$/GameBus.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug-visual-studio/" />
@@ -208,13 +32,18 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            <state relative-caret-position="19">
+              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="character.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/character.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
@@ -226,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -238,17 +67,17 @@
       <file leaf-file-name="GameBus.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameBus.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-114">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="337">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameBus.h" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GameBus.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GameBus.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="90">
+              <caret line="42" column="40" lean-forward="true" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
               <folding>
                 <element signature="e#92#118#0" expanded="true" />
               </folding>
@@ -280,11 +109,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/GameBus.cpp" />
-        <option value="$PROJECT_DIR$/GameBus.h" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/assets/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/GameBus.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/GameBus.cpp" />
       </list>
     </option>
   </component>
@@ -376,12 +205,20 @@
       <updated>1524919598878</updated>
       <workItem from="1524919604719" duration="838000" />
       <workItem from="1525094317595" duration="33000" />
-      <workItem from="1525315776792" duration="4739000" />
+      <workItem from="1525315776792" duration="6979000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1525331727858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525331727858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5610000" />
+    <option name="totallyTimeSpent" value="7850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,14 +233,14 @@
     <frame x="58" y="55" width="1276" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25277337" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25277337" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49920762" weight="0.3275862" />
-      <window_info anchor="bottom" id="Messages" weight="0.32998565" />
+      <window_info anchor="bottom" id="Messages" weight="0.3275862" />
       <window_info anchor="bottom" id="CMake" order="7" weight="0.2123386" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007924" side_tool="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33045977" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33045977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -458,33 +295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameBus.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding>
-            <element signature="e#92#118#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameBus.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -495,7 +305,44 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SFML-2.4.2/include/SFML/Graphics/Rect.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/character.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameBus.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameBus.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="42" column="40" lean-forward="true" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding>
+            <element signature="e#92#118#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -12,7 +12,7 @@ GameBus *GameBus::instance()
   return instance_;
 }
 
-sf::Sprite* GameBus::loadSprite(std::string filename)
+sf::Sprite* GameBus::loadSprite(std::string filename, int index)
 {
   sf::Texture* texture = new sf::Texture();
   bool success;
@@ -21,5 +21,16 @@ sf::Sprite* GameBus::loadSprite(std::string filename)
   if (!success) {
     std::cerr << "ERR! Failed to load picture: " << filename << std::endl;
   }
-  return new sf::Sprite(*texture);
+  return new sf::Sprite(*texture, spriteRect(index));
+}
+
+sf::IntRect GameBus::spriteRect(int index)
+{
+  sf::IntRect rect;
+
+  rect.width = config.spriteW;
+  rect.height = config.spriteH;
+  rect.top = 0;
+  rect.left = index * rect.width;
+  return rect;
 }
